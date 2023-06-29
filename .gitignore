@@ -1,0 +1,13 @@
+*.mat
+*.asv
+*.zip
+*.pdf
+*.png
+*.jpeg
+*.jpg
+Service/
+Data/
+Pictures/
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+*/__pycache__/*
